@@ -1,0 +1,2 @@
+znAXfkU5Z7LJb2VD
+mongodb+srv://ameykishor:znAXfkU5Z7LJb2VD@cluster0.q7kyubf.mongodb.net/?retryWrites=true&w=majority
